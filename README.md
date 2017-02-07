@@ -16,3 +16,9 @@ db.users.findOne()
     "lang" : "EN"
 }
 ```
+
+## Follow along with Python ##
+http://www.howtogeek.com/197947/how-to-install-python-on-windows/
+[Python Install Link](http://www.howtogeek.com/197947/how-to-install-python-on-windows/) 
+
+
