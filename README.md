@@ -18,7 +18,12 @@ db.users.findOne()
 ```
 
 ## Follow along with Python ##
-http://www.howtogeek.com/197947/how-to-install-python-on-windows/
-[Python Install Link](http://www.howtogeek.com/197947/how-to-install-python-on-windows/) 
+# Windows #
+[Python Windows Install Link](http://www.howtogeek.com/197947/how-to-install-python-on-windows/) 
+
+# MAC OS X #
+[MAC Install LINK](http://docs.python-guide.org/en/latest/starting/install/osx/)
 
 
+# Install PIP #
+[Install PIP](https://bootstrap.pypa.io/get-pip.py)
